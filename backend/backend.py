@@ -1,6 +1,7 @@
 """
 backend.py - Backend orchestrator
-Coordinates input.py and Summarizing.py from the backend package.
+Coordinates input.py and Summarizing.py for summarization from the backend package.
+
 """
 
 from typing import Callable, Union
